@@ -42,10 +42,8 @@
 
 ## 📊 GitHub Stats
 
-![Fayaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fayazahmedsaand123&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fayazahmedsaand123&layout=compact&theme=tokyonight)
-
+![Fayaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fayazahmedsaand123&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fayazahmedsaand123&layout=compact&theme=tokyonight&cache_seconds=1800)
 ---
 
 ## 📫 Connect With Me
