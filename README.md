@@ -1,4 +1,4 @@
-# Hi, I'm Fayaz Ahmed Saand! 👋
+# Asslam o Alikum, I'm Fayaz Ahmed Saand! 
 
 🚀 Full-Stack Web Developer | Laravel · PHP · React · MySQL · Ajax · Bootstrap
 
