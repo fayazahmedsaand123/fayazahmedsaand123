@@ -35,8 +35,7 @@
 | [🛒 E-Commerce System](https://github.com/fayazahmedsaand123/laravel-ecommerce) | Multi-role E-Commerce with Ajax cart, OTP email verification | Laravel, MySQL, Ajax |
 | [🏫 School Management System](https://github.com/fayazahmedsaand123/school-management-system) | Admin, Teacher, Student, Parent roles with attendance & marks | Laravel, MySQL |
 | [💼 Job Portal](https://github.com/fayazahmedsaand123/job-portal) | Role-based job portal with Chart.js admin dashboard | Laravel, Tailwind |
-| [🖥️ POS Backend](https://github.com/fayazahmedsaand123/pos-backend) | REST API for POS system with categories, products, orders | Laravel, REST API |
-| [⚛️ POS Frontend](https://github.com/fayazahmedsaand123/pos-frontend) | React frontend for POS system | React.js |
+| [📊 Admin Dashboard](https://github.com/fayazahmedsaand123/admin-dashboard). | Role-based admin panel with Ajax CRUD, Chart.js analytics & notifications | Laravel, Ajax, Chart.js |
 
 ---
 
