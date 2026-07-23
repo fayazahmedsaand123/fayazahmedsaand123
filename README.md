@@ -1,15 +1,15 @@
 # Asslam o Alikum, I'm Fayaz Ahmed Saand! 
 
-🚀 Full-Stack Web Developer | Laravel · PHP · React · MySQL · Ajax · Bootstrap
+Full-Stack Web Developer | Laravel · PHP · React · MySQL · Ajax · Bootstrap
 
 ---
 
-## 💻 About Me
-- 🌍 Based in **Hyderabad, Sindh, Pakistan**
-- 🎯 Passionate about building real-world web applications
-- 📚 Self-taught developer since October 2024
-- 💼 Open to **Junior Developer roles** and **Freelance projects**
-- 📧 fayazahmedsaand93@gmail.com
+## About Me
+- Based in **Hyderabad, Sindh, Pakistan**
+- Passionate about building real-world web applications
+- Self-taught developer since October 2024
+- Open to **Junior Developer roles** and **Freelance projects**
+- fayazahmedsaand93@gmail.com
 
 ---
 
@@ -28,22 +28,22 @@
 
 ---
 
-## 🚀 My Projects
+## My Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [🛒 E-Commerce System](https://github.com/fayazahmedsaand123/laravel-ecommerce) | Multi-role E-Commerce with Ajax cart, OTP email verification | Laravel, MySQL, Ajax |
-| [🏫 School Management System](https://github.com/fayazahmedsaand123/school-management-system) | Admin, Teacher, Student, Parent roles with attendance & marks | Laravel, MySQL |
-| [💼 Job Portal](https://github.com/fayazahmedsaand123/job-portal) | Role-based job portal with Chart.js admin dashboard | Laravel, Tailwind |
-| [📊 Admin Dashboard](https://github.com/fayazahmedsaand123/admin-dashboard). | Role-based admin panel with Ajax CRUD, Chart.js analytics & notifications | Laravel, Ajax, Chart.js |
+| [ E-Commerce System](https://github.com/fayazahmedsaand123/laravel-ecommerce) | Multi-role E-Commerce with Ajax cart, OTP email verification | Laravel, MySQL, Ajax |
+| [ School Management System](https://github.com/fayazahmedsaand123/school-management-system) | Admin, Teacher, Student, Parent roles with attendance & marks | Laravel, MySQL |
+| [ Job Portal](https://github.com/fayazahmedsaand123/job-portal) | Role-based job portal with Chart.js admin dashboard | Laravel, Tailwind |
+| [ Admin Dashboard](https://github.com/fayazahmedsaand123/admin-dashboard). | Role-based admin panel with Ajax CRUD, Chart.js analytics & notifications | Laravel, Ajax, Chart.js |
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=fayazahmedsaand123&theme=tokyonight)](https://git.io/streak-stats)
 
-## 📫 Connect With Me
+## Connect With Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fayazahmedsaand93@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fayazahmedsaand123)
