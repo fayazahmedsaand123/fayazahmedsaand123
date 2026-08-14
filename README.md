@@ -33,7 +33,7 @@ Full-Stack Web Developer | Laravel · PHP · React · MySQL · Ajax · Bootstrap
 | Project | Description | Tech |
 |---------|-------------|------|
 | [ E-Commerce System](https://github.com/fayazahmedsaand123/laravel-ecommerce) | Multi-role E-Commerce with Ajax cart, OTP email verification | Laravel, MySQL, Ajax |
-| [ School Management System](https://github.com/fayazahmedsaand123/school-management-system) | Admin, Teacher, Student, Parent roles with attendance & marks | Laravel, MySQL |
+| [ School Management System](https://github.com/fayazahmedsaand123/school-management-system-with-laravel-12) | Large-scale system with 7 roles, 14 modules, 43 database tables, Ajax, Chart.js, and full public-facing website | Laravel 12, PHP 8.2, MySQL, Bootstrap 5, Ajax |
 | [ Job Portal](https://github.com/fayazahmedsaand123/job-portal) | Role-based job portal with Chart.js admin dashboard | Laravel, Tailwind |
 | [ Admin Dashboard](https://github.com/fayazahmedsaand123/admin-dashboard). | Role-based admin panel with Ajax CRUD, Chart.js analytics & notifications | Laravel, Ajax, Chart.js |
 
