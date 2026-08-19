@@ -41,7 +41,9 @@ Full-Stack Web Developer | Laravel · PHP · React · MySQL · Ajax · Bootstrap
 
 ## GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=fayazahmedsaand123&theme=tokyonight)](https://git.io/streak-stats)
+![Fayaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fayazahmedsaand123&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fayazahmedsaand123&layout=compact&theme=tokyonight&hide_border=true)
 
 ## Connect With Me
 
