@@ -41,8 +41,7 @@ Full-Stack Web Developer | Laravel · PHP · React · MySQL · Ajax · Bootstrap
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=fayazahmedsaand123&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Fayaz GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fayazahmedsaand123&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fayazahmedsaand123&theme=tokyonight)
 
 ## Connect With Me
 
