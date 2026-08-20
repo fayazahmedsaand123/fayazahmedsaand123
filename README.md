@@ -9,6 +9,7 @@ Full-Stack Web Developer | Laravel · PHP · React · MySQL · Ajax · Bootstrap
 - Passionate about building real-world web applications
 - Self-taught developer since October 2024
 - Open to **Junior Developer roles** and **Freelance projects**
+- 🔇 I am deaf — I communicate exclusively through **text/chat**. Fast replies, no miscommunication!
 - fayazahmedsaand93@gmail.com
 
 ---
