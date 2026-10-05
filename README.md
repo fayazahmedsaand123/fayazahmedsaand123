@@ -8,7 +8,7 @@ Full-Stack Web Developer | Laravel · PHP · React · MySQL · Ajax · Bootstrap
 - Based in **Hyderabad, Sindh, Pakistan**
 - Passionate about building real-world web applications
 - Self-taught developer since October 2024
-- "Full-Stack Web Developer specialized in building scalable, role-based database systems and custom automation tools."
+- Full-Stack Web Developer specialized in building scalable, role-based database systems and custom automation tools.
 - 🔇 I am deaf — I communicate exclusively through **text/chat**. Fast replies, no miscommunication!
 - fayazahmedsaand93@gmail.com
 
