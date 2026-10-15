@@ -1,51 +1,25 @@
-# Asslam o Alikum, I'm Fayaz Ahmed Saand! 
+# Fayaz Ahmed Saand
 
-Full-Stack Web Developer | Laravel · PHP · React · MySQL · Ajax · Bootstrap
+**Full Stack PHP & Laravel Developer | Hyderabad, Sindh, Pakistan**
 
----
+I build web applications with Laravel and PHP, from REST APIs and role-based systems to interactive frontends. I’m open to junior Laravel developer opportunities and freelance projects.
 
-## About Me
-- Based in **Hyderabad, Sindh, Pakistan**
-- Passionate about building real-world web applications
-- Self-taught developer since October 2024
-- Full-Stack Web Developer specialized in building scalable, role-based database systems and custom automation tools.
-- 🔇 I am deaf — I communicate exclusively through **text/chat**. Fast replies, no miscommunication!
-- fayazahmedsaand93@gmail.com
+## Tech Stack
 
----
+- **Backend:** PHP, Laravel, REST APIs, MVC
+- **Frontend:** JavaScript, React, HTML, CSS, Bootstrap, AJAX
+- **Database:** MySQL
+- **Tools:** Git, GitHub, Laragon, XAMPP
 
-## 🛠️ Tech Stack
+## Featured Projects
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Ajax](https://img.shields.io/badge/Ajax-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- **[School Management System](https://github.com/fayazahmedsaand123/school-management-system-with-laravel-12)** — Laravel 12 system with 7 roles, 14 modules, attendance, timetables, fee management, exam results, and analytics.
+- **[Job Portal](https://github.com/fayazahmedsaand123/job-portal)** — Job listing portal built with Laravel 9, Tailwind CSS, and Chart.js. [Live demo](https://job-portal-production-1e04.up.railway.app)
+- **[E-Commerce Platform](https://github.com/fayazahmedsaand123/laravel-ecommerce)** — Multi-role Laravel application with an AJAX cart, email OTP verification, and seller earnings.
+- **[Admin Dashboard](https://github.com/fayazahmedsaand123/admin-dashboard)** — Laravel 12 dashboard featuring role-based access, AJAX CRUD, Chart.js analytics, and notifications.
+- **[Library Management System](https://github.com/fayazahmedsaand123/library-management-system)** — Laravel 12 system with 13 modules and dashboards for admins, librarians, and students.
 
----
+## Connect
 
-## My Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [ Library Management System](https://github.com/fayazahmedsaand123/library-management-system) | Role-based system with Admin, Librarian, Student panels, book issuing, fines, reservations, Chart.js dashboard | Laravel 12, MySQL, Bootstrap 5, Ajax |
-| [ School Management System](https://github.com/fayazahmedsaand123/school-management-system-with-laravel-12) | Large-scale system with 7 roles, 14 modules, 43 database tables, Ajax, Chart.js, and full public-facing website | Laravel 12, PHP 8.2, MySQL, Bootstrap 5, Ajax |
-| [ Job Portal](https://github.com/fayazahmedsaand123/job-portal) | Role-based job portal with Chart.js admin dashboard | Laravel, Tailwind |
-| [ Admin Dashboard](https://github.com/fayazahmedsaand123/admin-dashboard) | Role-based admin panel with Ajax CRUD, Chart.js analytics & notifications | Laravel, Ajax, Chart.js |
-
----
-
-## GitHub Stats
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fayazahmedsaand123&theme=tokyonight)
-
-## Connect With Me
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fayazahmedsaand93@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fayazahmedsaand123)
-[![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/fayazahmeds9)
+- [Fiverr](https://www.fiverr.com/fayazahmed13)
+- [Freelancer](https://www.freelancer.com/u/fayazahmeds9)
