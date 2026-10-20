@@ -7,12 +7,9 @@ Hyderabad, Sindh, Pakistan 🇵🇰
 
 ![Profile Views](https://komarev.com/ghpvc/?username=fayazahmedsaand123&color=6366f1&style=flat-square&label=Profile+Views)
 &nbsp;
-![GitHub followers](https://img.shields.io/github/followers/fayazahmedsaand123?label=Followers&style=flat-square&color=6366f1&logo=github)
-&nbsp;
 ![GitHub repos](https://img.shields.io/badge/Repositories-17-6366f1?style=flat-square&logo=github)
 
 </div>
----
 
 ## 👨‍💻 About Me
 
