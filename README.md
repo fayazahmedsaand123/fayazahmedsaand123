@@ -20,8 +20,8 @@ As a deaf developer, I communicate exclusively through text — chat, email, and
 I write clean, well-structured code and focus on real-world features: role-based authentication, AJAX-powered interfaces, RESTful APIs, interactive dashboards, and complex database relationships.
 
 I am actively looking for a Junior Laravel Developer position at a software house, and I take freelance projects on Fiverr, Upwork, and Freelancer.
----
 
+---
 ## 🛠️ Tech Stack
 
 ### Backend
