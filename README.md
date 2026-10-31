@@ -13,20 +13,13 @@ Hyderabad, Sindh, Pakistan 🇵🇰
 
 ## 👨‍💻 About Me
 
-I am a **self-taught Full Stack Web Developer** from Hyderabad, Pakistan,
-specializing in **Laravel** and **PHP**. I started PHP in **October 2024**
-and Laravel in **April 2025** — and in less than a year I have built
-multiple professional, production-ready systems.
+I am a self-taught Full Stack Web Developer from Hyderabad, Pakistan, specializing in Laravel and PHP. I started PHP in October 2024 and Laravel in April 2025 — and in less than a year I have built multiple professional, production-ready systems.
 
-I write clean, well-structured code and focus on real-world features:
-**role-based authentication**, **AJAX-powered interfaces**,
-**RESTful APIs**, **interactive dashboards**, and **complex database
-relationships**.
+As a deaf developer, I communicate exclusively through text — chat, email, and project management tools. This makes my written communication precise, focused, and highly responsive. It is a natural advantage for remote work where clear text-based collaboration is essential.
 
-I am actively looking for a **Junior Laravel Developer** position at a
-software house, and I take freelance projects on Fiverr, Upwork, and
-Freelancer.
+I write clean, well-structured code and focus on real-world features: role-based authentication, AJAX-powered interfaces, RESTful APIs, interactive dashboards, and complex database relationships.
 
+I am actively looking for a Junior Laravel Developer position at a software house, and I take freelance projects on Fiverr, Upwork, and Freelancer.
 ---
 
 ## 🛠️ Tech Stack
