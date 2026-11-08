@@ -1,154 +1,101 @@
-<div align="center">
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=200&section=header&text=Fayaz%20Ahmed%20Saand&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20PHP%20%26%20Laravel%20Developer&descAlignY=58&descSize=20&descColor=93c5fd" width="100%"/> <br/>
 
-# Fayaz Ahmed Saand
+Typing SVG
 
-**Full Stack PHP & Laravel Developer**
-Hyderabad, Sindh, Pakistan 🇵🇰
+<br/>
 
-![GitHub followers](https://img.shields.io/github/followers/fayazahmedsaand123?label=Followers&style=flat-square&color=6366f1&logo=github)
-&nbsp;
-![GitHub repos](https://img.shields.io/badge/Repositories-20-6366f1?style=flat-square&logo=github)
+GitHub followers   GitHub stars   Profile Views
 
 </div>
 
-## 👨‍💻 About Me
+👨‍💻 About Me
+<?php
 
-I am a self-taught Full Stack Web Developer from Hyderabad, Pakistan, specializing in Laravel and PHP. I started PHP in October 2024 and Laravel in April 2025 — and in less than a year I have built multiple professional, production-ready systems.
+namespace App\Developers;
 
-As a deaf developer, I communicate exclusively through text — chat, email, and project management tools. This makes my written communication precise, focused, and highly responsive. It is a natural advantage for remote work where clear text-based collaboration is essential.
+class FayazAhmedSaand extends Developer
+{
+    public string $name     = 'Fayaz Ahmed Saand';
+    public string $role     = 'Full Stack PHP & Laravel Developer';
+    public string $location = 'Hyderabad, Sindh, Pakistan 🇵🇰';
+    public string $email    = 'fayazahmedsaand93@gmail.com';
 
-I write clean, well-structured code and focus on real-world features: role-based authentication, AJAX-powered interfaces, RESTful APIs, interactive dashboards, and complex database relationships.
+    public array $currentFocus = [
+        'Building production-ready Laravel applications',
+        'REST API development with Laravel Sanctum',
+        'Open to Junior Laravel Developer positions',
+    ];
 
-I am actively looking for a Junior Laravel Developer position at a software house, and I take freelance projects on Fiverr, Upwork, and Freelancer.
+    public function skills(): array
+    {
+        return [
+            'backend'  => ['Laravel 12', 'PHP 8.2', 'MySQL', 'REST API', 'MVC'],
+            'frontend' => ['Bootstrap 5', 'JavaScript', 'AJAX', 'HTML5', 'CSS3'],
+            'tools'    => ['Git', 'GitHub', 'XAMPP', 'Laragon', 'VS Code'],
+        ];
+    }
 
----
-## 🛠️ Tech Stack
+    public function funFact(): string
+    {
+        return 'Started PHP in Oct 2024 — built 8 professional systems by 2025! 🚀';
+    }
+}
 
-### Backend
-![PHP](https://img.shields.io/badge/PHP-8.2-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-12-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-8-4479A1?style=flat-square&logo=mysql&logoColor=white)
+🔇 I am a deaf developer — I communicate exclusively through text (chat, email, project tools). This makes my written communication precise, focused, and highly responsive — a natural advantage for remote work.
 
-### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-5-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![AJAX](https://img.shields.io/badge/AJAX-Fetch_API-00897B?style=flat-square)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white)
-![VS Codium](https://img.shields.io/badge/VS_Codium-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 🏨 [Hostel Management System](https://github.com/fayazahmedsaand123/hostel-management-system)
-> Laravel 12 · MySQL · Bootstrap 5 · AJAX · Chart.js
-
-A complete professional hostel management system with:
-- **Warden → Hostel → Room → Student** AJAX cascade chain
-- Full **AJAX CRUD** — Add, Edit, Delete with zero page reloads
-- **Role-based access** — Admin and Warden roles
-- **Room allocation** with real-time capacity check
-- **Fee management** with printable receipts
-- **3 Reports** (Occupancy, Fee, Student) with print support
-- Dashboard with **Chart.js** bar and doughnut charts
-- Visitor gate register and complaint tracking
-
----
-
-### 🏫 [School Management System](https://github.com/fayazahmedsaand123/school-management-system-with-laravel-12)
-> Laravel 12 · MySQL · Bootstrap 5 · AJAX · Chart.js
-
-A large-scale school management platform with:
-- **7 user roles** — Admin, Teacher, Student, Parent, Accountant, Librarian, Receptionist
-- **14 modules** — Attendance, Timetables, Exams, Results, Fee, Library, Transport and more
-- Role-based dashboards with analytics
-- Complex Eloquent relationships and AJAX interfaces
-
----
-
-### 💼 [Job Portal](https://github.com/fayazahmedsaand123/job-portal)
-> Laravel 9 · Tailwind CSS · Chart.js · Live Demo
-
-A full-featured job listing platform with:
-- **3 roles** — Admin, Employer, Candidate
-- Job posting, resume upload, application tracking
-- Real-time search and Chart.js analytics
-- 🔗 **[Live Demo](https://job-portal-production-1e04.up.railway.app)**
-
----
-
-### 🛒 [E-Commerce Platform](https://github.com/fayazahmedsaand123/laravel-ecommerce)
-> Laravel · MySQL · AJAX · Email OTP
-
-A multi-role e-commerce system with:
-- AJAX cart (no page reloads)
-- Email OTP verification
-- Seller earnings dashboard
-- Admin product and order management
-
----
-
-### 📊 [Admin Dashboard](https://github.com/fayazahmedsaand123/admin-dashboard)
-> Laravel 12 · AJAX CRUD · Chart.js · Role-based
-
-Professional admin panel featuring:
-- Role-based access control
-- Real-time AJAX CRUD operations
-- Chart.js analytics and notifications
-- Clean modern UI design
-
----
-
-### 📚 [Library Management System](https://github.com/fayazahmedsaand123/library-management-system)
-> Laravel 12 · MySQL · Bootstrap 5
-
-Complete library system with:
-- **13 modules** — Books, Members, Borrowing, Returns, Fines
-- 3 dashboards — Admin, Librarian, Student
-- Book search and availability tracking
-
----
-
-## 📊 GitHub Stats
-
+🛠️ Tech Stack
 <div align="center">
+⚙️ Backend
 
-![Fayaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fayazahmedsaand123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+Show Image Show Image Show Image Show Image Show Image
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fayazahmedsaand123&layout=compact&theme=tokyonight&hide_border=true)
+🎨 Frontend
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fayazahmedsaand123&theme=tokyonight&hide_border=true)
+Show Image Show Image Show Image Show Image Show Image Show Image
+
+🔧 Tools & Platforms
+
+Show Image Show Image Show Image Show Image Show Image
 
 </div>
-
----
-
-## 🌐 Connect With Me
-
+🚀 Featured Projects
+<div align="center">
+Project	Tech Stack	Highlights
+🏫 School Management System	Laravel 12 · MySQL · AJAX · Chart.js	7 Roles · 14 Modules · 43 DB Tables
+📋 Attendance Management System	Laravel 12 · MySQL · AJAX	University-level · Cascading AJAX · Print Reports
+🛒 ShopZone — E-Commerce Platform	Laravel 12 · MySQL · AJAX · Chart.js	127 Products · 54 Brands · COD & Online Payment
+🏨 Hostel Management System	Laravel 12 · MySQL · AJAX	Room Allocation · Fee Tracking · Reports
+🏥 Hospital Management System	Laravel 12 · React · REST API	3 Roles · Billing · Medical Records
+📚 Library Management System	Laravel 12 · MySQL · Bootstrap 5	13 Modules · 12 DB Tables · 3 Dashboards
+💼 Job Portal	Laravel 9 · Tailwind CSS · Chart.js	🔴 Live Demo
+⚡ Admin Dashboard	Laravel 12 · AJAX · Chart.js	Role-Based · Gmail SMTP · Analytics
+</div>
+📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fayazahmedsaand123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&text_color=94a3b8" width="49%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fayazahmedsaand123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=94a3b8" width="49%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=fayazahmedsaand123&theme=tokyonight&hide_border=true&background=0d1117&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" width="70%" /> </div>
+📈 Learning Journey
+<div align="center">
+Oct 2024          Jan 2025          Feb 2025          Apr 2025
+   │                 │                 │                 │
+  PHP     ──────►  MySQL   ──────►   AJAX    ──────►  Laravel  🔥
+   │                 │                 │                 │
+Started           Database          Dynamic           Framework
+Backend           Design            Interfaces        Mastery
+</div>
+🏆 Certifications
+<div align="center">
+Certificate	Issuer	Date
+🤖 Python AI Engineer Internship	MIT Software Solution, Hyderabad	Jul – Sep 2026
+📱 Mobile Application Development — Grade B	NAVTTC · MIT Software Solution	2025
+📜 Introduction to JavaScript	Sololearn	June 2026
+</div>
+🌐 Connect With Me
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-fayazahmedsaand93@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fayazahmedsaand93@gmail.com)
+Portfolio
 
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/fayazahmed13)
+Email
 
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~014a51348826db402e)
-
-[![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/fayazahmeds9)
+Fiverr   Upwork   Freelancer
 
 </div>
-
----
-
-<div align="center">
-
-**💼 Open to Junior Laravel Developer positions and freelance projects**
-
-*"Started PHP in October 2024. Building professional systems by October 2025."*
-
-</div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=120&section=footer&text=Open%20to%20Junior%20Laravel%20Developer%20Roles&fontSize=18&fontColor=ffffff&animation=fadeIn" width="100%"/> </div>
