@@ -101,7 +101,6 @@ class FayazAhmedSaand extends Developer
 | 🏨 **[Hostel Management System](https://github.com/fayazahmedsaand123/hostel-management-system)** | Laravel 12 · MySQL · AJAX | Room Allocation · Fee Tracking · Reports |
 | 🏥 **[Hospital Management System](https://github.com/fayazahmedsaand123/hospital-management-system)** | Laravel 12 · React · REST API | 3 Roles · Billing · Medical Records |
 | 📚 **[Library Management System](https://github.com/fayazahmedsaand123/library-management-system)** | Laravel 12 · MySQL · Bootstrap 5 | 13 Modules · 12 DB Tables · 3 Dashboards |
-| 💼 **[Job Portal](https://github.com/fayazahmedsaand123/job-portal)** | Laravel 9 · Tailwind CSS · Chart.js | 🔴 [Live Demo](https://job-portal-production-1e04.up.railway.app) |
 | ⚡ **[Admin Dashboard](https://github.com/fayazahmedsaand123/admin-dashboard)** | Laravel 12 · AJAX · Chart.js | Role-Based · Gmail SMTP · Analytics |
 
 </div>
