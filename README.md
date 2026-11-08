@@ -27,7 +27,7 @@ namespace App\Developers;
 
 class FayazAhmedSaand extends Developer
 {
-    public string $name     = 'Fayaz Ahmed Saand';
+    public string $name     = 'Fayaz Ahmed';
     public string $role     = 'Full Stack PHP & Laravel Developer';
     public string $location = 'Hyderabad, Sindh, Pakistan 🇵🇰';
     public string $email    = 'fayazahmedsaand93@gmail.com';
