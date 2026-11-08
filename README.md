@@ -1,7 +1,7 @@
 <div align="center">
 
-<h1>👋 Hi, I am Fayaz Ahmed Saand</h1>
-<h3>🚀 Full Stack PHP & Laravel Developer</h3>
+<h1>Asslam o Alikum, I am Fayaz Ahmed</h1>
+<h3>Full Stack PHP & Laravel Developer</h3>
 <h4>📍 Hyderabad, Sindh, Pakistan 🇵🇰</h4>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+PHP+%26+Laravel+Developer;Building+Real-World+Web+Applications;Laravel+%7C+PHP+%7C+MySQL+%7C+REST+API;Open+to+Junior+Developer+Roles" alt="Typing SVG" />
