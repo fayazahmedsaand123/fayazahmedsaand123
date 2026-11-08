@@ -1,11 +1,10 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=200&section=header&text=Fayaz%20Ahmed%20Saand&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20PHP%20%26%20Laravel%20Developer&descAlignY=58&descSize=20&descColor=93c5fd" width="100%"/>
+<h1>👋 Hi, I am Fayaz Ahmed Saand</h1>
+<h3>🚀 Full Stack PHP & Laravel Developer</h3>
+<h4>📍 Hyderabad, Sindh, Pakistan 🇵🇰</h4>
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+PHP+%26+Laravel+Developer;Building+Real-World+Web+Applications;Laravel+%7C+PHP+%7C+MySQL+%7C+REST+API;Open+to+Junior+Developer+Roles)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+PHP+%26+Laravel+Developer;Building+Real-World+Web+Applications;Laravel+%7C+PHP+%7C+MySQL+%7C+REST+API;Open+to+Junior+Developer+Roles" alt="Typing SVG" />
 
 <br/>
 
@@ -83,7 +82,7 @@ class FayazAhmedSaand extends Developer
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
-![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white)
+![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
@@ -98,7 +97,7 @@ class FayazAhmedSaand extends Developer
 |---|---|---|
 | 🏫 **[School Management System](https://github.com/fayazahmedsaand123/school-management-system-with-laravel-12)** | Laravel 12 · MySQL · AJAX · Chart.js | 7 Roles · 14 Modules · 43 DB Tables |
 | 📋 **[Attendance Management System](https://github.com/fayazahmedsaand123/attendance-management-system)** | Laravel 12 · MySQL · AJAX | University-level · Cascading AJAX · Print Reports |
-| 🛒 **[ShopZone — E-Commerce Platform](https://github.com/fayazahmedsaand123/shopzone)** | Laravel 12 · MySQL · AJAX · Chart.js | 127 Products · 54 Brands · COD & Online Payment |
+| 🛒 **[ShopZone — E-Commerce](https://github.com/fayazahmedsaand123/shopzone)** | Laravel 12 · MySQL · AJAX · Chart.js | 127 Products · 54 Brands · COD & Online Payment |
 | 🏨 **[Hostel Management System](https://github.com/fayazahmedsaand123/hostel-management-system)** | Laravel 12 · MySQL · AJAX | Room Allocation · Fee Tracking · Reports |
 | 🏥 **[Hospital Management System](https://github.com/fayazahmedsaand123/hospital-management-system)** | Laravel 12 · React · REST API | 3 Roles · Billing · Medical Records |
 | 📚 **[Library Management System](https://github.com/fayazahmedsaand123/library-management-system)** | Laravel 12 · MySQL · Bootstrap 5 | 13 Modules · 12 DB Tables · 3 Dashboards |
@@ -157,7 +156,7 @@ Backend           Design            Interfaces        Mastery
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-fayazahmedsaand123.github.io-3b82f6?style=for-the-badge)](https://fayazahmedsaand123.github.io/portfolio)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-3b82f6?style=for-the-badge)](https://fayazahmedsaand123.github.io/portfolio)
 
 [![Email](https://img.shields.io/badge/Gmail-fayazahmedsaand93@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fayazahmedsaand93@gmail.com)
 
@@ -173,6 +172,8 @@ Backend           Design            Interfaces        Mastery
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=120&section=footer&text=Open%20to%20Junior%20Laravel%20Developer%20Roles&fontSize=18&fontColor=ffffff&animation=fadeIn" width="100%"/>
+**💼 Open to Junior Laravel Developer positions and freelance projects**
+
+*"Started PHP in October 2024. Building professional systems by 2025."*
 
 </div>
